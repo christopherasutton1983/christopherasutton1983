@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christopherasutton1983 - otherwise known as Chris (Christopher) Sutton 
 - 👀 I have been a technical writer since 2008
 - 📫 Christopher Sutton
--     3660 East Bay Drove
+      3660 East Bay Drove
       #521
       Largo, Florida 33771
       931-338-8381
